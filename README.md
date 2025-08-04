@@ -1,5 +1,5 @@
 
-# 🧼 Task 1: Data Cleaning Summary (Microsoft Excel)
+# Task 1: Data Cleaning Summary (Microsoft Excel)
 
 As part of the data cleaning and preprocessing task, I worked with a customer marketing dataset and applied several essential data transformation techniques using Excel. The goal was to prepare the data for structured analysis by addressing formatting inconsistencies, column clarity, and overall dataset structure.
 
